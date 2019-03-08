@@ -1,0 +1,11 @@
+tensorflow
+numpy
+scipy
+flask
+matplotlib
+keras
+opencv-python
+pillow
+H5py
+https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl
+Download model from https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5 and place it under images folder
